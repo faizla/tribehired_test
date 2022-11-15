@@ -3,7 +3,7 @@
 All of the logic code is in the controllers folder.
 ## Question 1
 The screenshot of question 1: seems like all the post have the same number of commment.
-Question 1![question1](https://user-images.githubusercontent.com/55307820/202038443-fe527bc2-2d88-4734-b475-d0a0638306e1.png)
+![question1](https://user-images.githubusercontent.com/55307820/202038443-fe527bc2-2d88-4734-b475-d0a0638306e1.png)
 
 
 
